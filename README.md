@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Vasu Mekala 👋
+ML Engineer · Fraud & Risk · GenAI / LLM Systems · MLOps
 
 
 
