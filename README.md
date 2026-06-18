@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm Vasu Mekala </h1>
 
 <p align="center">
-  <b>ML Engineer · Fraud & Risk · GenAI / LLM Systems · MLOps</b><br/>
+  <b>Data Scientist | ML Engineer · Fraud & Risk · GenAI / LLM Systems · MLOps</b><br/>
   Building end-to-end ML systems that go from raw data to production APIs
 </p>
 
